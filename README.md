@@ -70,7 +70,7 @@ I also use Laravel, HTML, CSS, Bootstrap, and more for developing and customizin
 ## 🔥 Passion & Consistency
 
 <p align="center" style="background-color:#000; padding:20px; border-radius:10px;">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="300" alt="Coding" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RsbTh3djBtYWR5eXA3ODE2aTJ4ajJrZ296bGx1cmd1MDM4bmVmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="300" alt="Coding" />
 </p>
 
 
