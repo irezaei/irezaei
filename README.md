@@ -69,9 +69,10 @@ I also use Laravel, HTML, CSS, Bootstrap, and more for developing and customizin
 
 ## 🔥 Passion & Consistency
 
-<p align="center">
+<p align="center" style="background-color:#000; padding:20px; border-radius:10px;">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="300" alt="Coding" />
 </p>
+
 
 <p align="center">
   <b>Every day, I code a little more. <br>
