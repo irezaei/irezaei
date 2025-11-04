@@ -101,5 +101,3 @@ I work mainly with **WordPress, WooCommerce, Laravel, and modern front-end tools
 
 ```diff
 + "Build strong foundations — in code and in life." ```
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=100&section=footer"/> </p> 
