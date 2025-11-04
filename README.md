@@ -94,10 +94,12 @@ I work mainly with **WordPress, WooCommerce, Laravel, and modern front-end tools
 
 ## 🎯 Fun Facts & Motto
 
-> 💬 *Blending creative design with engineering precision.*  
-> 🧠 *From structures in concrete to structures in code.*
+## 🎯 Fun Facts & Motto
 
-diff
-+ "Build strong foundations — in code and in life." +
+> 💬 Blending creative design with engineering precision.  
+> 🧠 From structures in concrete to structures in code.
+
+```diff
++ "Build strong foundations — in code and in life."
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=100&section=footer"/> </p> 
