@@ -94,8 +94,6 @@ I work mainly with **WordPress, WooCommerce, Laravel, and modern front-end tools
 
 ## 🎯 Fun Facts & Motto
 
-## 🎯 Fun Facts & Motto
-
 > 💬 Blending creative design with engineering precision.  
 > 🧠 From structures in concrete to structures in code.
 
